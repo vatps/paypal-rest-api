@@ -3,7 +3,7 @@ PayPal REST API Wrapper
 
 Very Easy to use PayPal REST Enabled API Wrapper Class in PHP.
 
-Requires PHP 5.3 and curl extension.
+Requires PHP 5.4 and curl extension.
 
 Installation
 ------------
